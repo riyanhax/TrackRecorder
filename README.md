@@ -1,10 +1,10 @@
-# chrome steps recorder #
+# Trackrecorder #
 
 -Instructions:
 1. download zip
 2. extract the contents
 3. create a new folder at your chrome AppData directory (C:\Users\user\AppData\Local\Google\Chrome\User Data\new folder)
-4. change this line **C:\Users\yawik\AppData\Local\Google\Chrome\User Data\ChromeBot** to the folder from step 3
+4. change this line **C:\Users\riyanhax\AppData\Local\Google\Chrome\User Data\ChromeBot** to the folder from step 3
 5. open internet explorer
 6. run **chrome steps recorder.ahk**
 7. ctrl + left mouse click = recorded action
@@ -14,6 +14,6 @@
 
 - Feel free to suggest **any** improvements upon the existing code.
 
-- This project could not be done without: GeekDude, Bruttosozialprodukt, Joe Glines and Cap'n Odin. Thank You All!
+
 
 Cheers ;)
